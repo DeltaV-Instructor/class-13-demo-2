@@ -8,7 +8,7 @@ User scenarios are longer, and often give these pieces of info about potential u
 - context
 - highlight any gaps in knowledge that may impact our design
 
-Joanne is from NYC. She has an interest in the natural environment, and other than knowing she likes to be outdoors, doesn't know much about the flora and fauna around her. She would like to learn to visually recognize a few species of pizzas in a fun, easy manner. She is likely to play this game on her phone as she's taking the bus from one end of NYC to the other.
+Joanne is from NYC. She has an interest in the natural environment, and other than knowing she likes to be outdoors, doesn't know much about the flora and fauna around her. She would like to learn to visually recognize a few species of pizzas in a fun, easy manner. She is likely to play this game on her phone as she's taking the bus from one end of NYC to the other to get to a pizza place.
 
 Paul is from Minnesota. He grew up playing in the woods with his friends. He is familiar with pizza identification already and just needs to learn the defining characteristics of pizzas in the midwest. He is most likely to play this game on his laptop in his cabin in front of a roaring fire.   
 
